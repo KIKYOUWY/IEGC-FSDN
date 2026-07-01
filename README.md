@@ -45,14 +45,6 @@ The overall architecture is shown below:
 | Union | MASFNet | 64.339 | 52.1 | 71.1 | 60.8 | 12.109 |
 | Union | IEGC-FSDN | **66.395** | **54.8** | **72.5** | **61.5** | **15.198** |
 
-### Ablation Study
-
-| Method | mAP | Large | Medium | Small |
-| --- | ---: | ---: | ---: | ---: |
-| Baseline | 61.183 | 49.6 | 67.9 | 56.5 |
-| PRS only | 65.446 | 52.2 | 71.9 | 60.6 |
-| MSAPM only | 63.111 | - | - | - |
-| IEGC-FSDN | **66.395** | **54.8** | **72.5** | **61.5** |
 
 
 ## Dataset
